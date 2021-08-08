@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/technophile_xtra">🌉 Instagram</a> •
 </p>
 
-- 🔭 I’m currently working as **A Oracle Apps DBA in Wipro**
+- 🔭 I’m currently working as **Oracle Apps DBA in Wipro**
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 🌱 I’m currently learning **Go and Algorithms**
 - 💬 Ask me about **Go, Git and Python**
