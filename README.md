@@ -11,5 +11,6 @@
 - 💬 Ask me about **Go, Git and Python**
 - 📫 How to reach me: [mail@Rijo Thomas](rijothomas64@gmail.com).
 - ⚡ Fun fact: I like to make casual games 🎮  as a hobby.
-- 🎮 Playstore link: [EvolvedAnt](https://play.google.com/store/apps/dev?id=7801156418279851884) 
+- 🎮 Playstore: [EvolvedAnt](https://play.google.com/store/apps/dev?id=7801156418279851884) 
+- 🎮 Itch.io: [EvolvedAntGames](https://evolvedantgames.itch.io/)
 
