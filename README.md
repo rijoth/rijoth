@@ -3,6 +3,7 @@
   <a href="https://www.blog.rijo.xyz/">🌐 Blog</a> •
   <a href="https://www.linkedin.com/in/rijo-thomas-4a785a92/">📰 LinkedIn</a> •
   <a href="https://www.instagram.com/technophile_xtra">🌉 Instagram</a> •
+  <a href="https://evolvedantgames.itch.io/"🕹️ Itch.io</a> •
 </p>
 
 - 🔭 I’m currently working as **Oracle Apps DBA in Wipro**
