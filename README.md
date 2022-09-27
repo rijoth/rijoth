@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as **Oracle Apps DBA in Wipro**
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 🌱 I’m currently learning **Go and Algorithms**
-- 💬 Ask me about **Go, Git and Python**
+- 💬 Ask me about **Lua, Go, Git and Python**
 - 📫 How to reach me: [mail@Rijo Thomas](rijothomas64@gmail.com).
 - ⚡ Fun fact: I like to make casual games 🎮  as a hobby.
 - 🎮 Playstore: [EvolvedAnt](https://play.google.com/store/apps/dev?id=7801156418279851884) 
