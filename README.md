@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> ! I'm Rijo.</h2>
 <p align="center">
   <a href="https://rijo.netlify.app/">🌐 Blog</a> •
-  <a href="https://www.linkedin.com/in/rijo-thomas-4a785a92/">📰 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rijoth/">📰 LinkedIn</a> •
   <a href="https://www.instagram.com/technophile_xtra">🌉 Instagram</a> •
   <a href="https://evolvedantgames.itch.io/">🕹️ Itch.io</a> 
 </p>
