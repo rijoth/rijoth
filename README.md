@@ -6,7 +6,7 @@
   <a href="https://evolvedantgames.itch.io/">🕹️ Itch.io</a> 
 </p>
 
-- 🔭 I’m currently working as **Oracle Apps DBA in Wipro**
+- 🔭 I’m currently working as **Technology Analyst*
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Oracle DB/Apps Administration, Linux, Bash, Python, Lua and Git**
